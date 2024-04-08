@@ -1,0 +1,7 @@
+flask
+validators
+werkzeug
+flask_sqlalchemy
+flask-jwt-extended
+setuptool
+flasgger==0.9.7b2
